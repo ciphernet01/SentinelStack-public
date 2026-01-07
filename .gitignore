@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+dist/
+.DS_Store
+
+# env
+.env
+.env.*
+
+# firebase admin key files (never commit)
+serviceAccountKey.json
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
